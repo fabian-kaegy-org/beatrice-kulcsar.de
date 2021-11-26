@@ -1,0 +1,25 @@
+{
+  "name": "beatrice-kulcsar.de",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-env start",
+    "stop": "wp-env stop",
+    "env": "wp-env"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabian-kaegy-org/beatrice-kulcsar.de.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabian-kaegy-org/beatrice-kulcsar.de/issues"
+  },
+  "homepage": "https://github.com/fabian-kaegy-org/beatrice-kulcsar.de#readme",
+  "dependencies": {
+    "@wordpress/env": "^4.1.3"
+  }
+}
