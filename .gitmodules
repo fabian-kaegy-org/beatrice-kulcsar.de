@@ -1,0 +1,3 @@
+[submodule "themes/maya"]
+	path = themes/maya
+	url = git@github.com:fabian-kaegy-org/maya.git
